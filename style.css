@@ -1,0 +1,15 @@
+.navbar{
+background:floralwhite;
+padding:3px;
+text-overflow: 2px;
+}
+body{
+
+	background-color: skyblue;
+	margin: 12px;
+}
+.botton{
+	position: down-left-corner;
+	size: 100px;
+	radius:100px;
+}
